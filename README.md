@@ -2,11 +2,11 @@
 
 # KPMG Data Analytics Virtual Internship
 
-This repository contains my work for the KPMG Data Analytics Virtual Internship on Forage.
+This repository contains my work for the [KPMG Data Analytics Virtual Internship](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=RYop2KHz8Wj9YfB4S) on Forage.
 
 In this virtual internship, I completed tasks that replicate the work of KPMG's data analytics team. I learned how to analyze data, create visualizations, and present insights to clients.
 
 Upon completion, I gained practical skills and experience from KPMG and deepened my understanding of data analytics in a professional services context.
 
-I invite you to explore my work in this repository and learn more about the virtual internship on Forage.
+I invite you to explore my work in this repository and learn more about the virtual internship on [Forage](https://www.theforage.com/dashboard?ref=RYop2KHz8Wj9YfB4S)
 
