@@ -1,3 +1,4 @@
+![Dashboard](kpmg-Dashboard.JPG)
 ![KPMG Logo](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092016/untitled-2_79.jpg?itok=lm5Jwrdh)
 
 # KPMG Data Analytics Virtual Internship
