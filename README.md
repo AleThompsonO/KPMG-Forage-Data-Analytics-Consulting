@@ -12,3 +12,5 @@ Upon completion, I gained practical skills and experience from KPMG and deepened
 I invite you to explore my work in this repository and learn more about the virtual internship on [Forage](https://www.theforage.com/dashboard?ref=RYop2KHz8Wj9YfB4S)
 
 I invite you to interact with the dashboard I made on my Tableau page. [Dashboard Customer Analysis](https://public.tableau.com/views/Forage-KPMG-AnalysisCustomers/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+Also invite you to see the processing of the data. [Processing data](https://nbviewer.org/github/AleThompsonO/KPMG-Forage-Data-Analytics-Consulting/blob/main/Task%202/KPMG_Final_Data_cleaning_summarized.ipynb)
